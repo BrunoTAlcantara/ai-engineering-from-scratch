@@ -1,0 +1,14 @@
+Progresso pessoal - AI Engineering from Scratch
+
+Ambiente: Windows, AMD Radeon RX 6600, PyTorch na CPU.
+Ambiente virtual: ../.venv (mantido na pasta Projeto-IA).
+Python 3.12, NumPy, Matplotlib e Jupyter instalados.
+Teste informado pelo aluno: PyTorch 2.15.0+cpu; tensor([2., 2., 2.]).
+
+Aula 00/02 - Git & Collaboration:
+- Identidade Git existente verificada.
+- Repositorio original clonado com remote upstream.
+- Branch pessoal my-progress criada.
+- .gitignore existente verificado para .venv, .pt, .pth e .safetensors.
+- Historico da fase 00 consultado.
+- Fork e push pendentes de reautenticacao no GitHub CLI.

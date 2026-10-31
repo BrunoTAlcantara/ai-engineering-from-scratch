@@ -11,4 +11,5 @@ Aula 00/02 - Git & Collaboration:
 - Branch pessoal my-progress criada.
 - .gitignore existente verificado para .venv, .pt, .pth e .safetensors.
 - Historico da fase 00 consultado.
-- Fork e push pendentes de reautenticacao no GitHub CLI.
+- Fork criado: https://github.com/BrunoTAlcantara/ai-engineering-from-scratch
+- Branch my-progress publicada e configurada para acompanhar origin/my-progress.
